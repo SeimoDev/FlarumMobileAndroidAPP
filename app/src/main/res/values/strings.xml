@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Flarum</string>
+    <string name="login">登录</string>
+    <string name="adduser">注册</string>
+    <string name="hello">欢迎来到Flarum</string>
+
 </resources>
